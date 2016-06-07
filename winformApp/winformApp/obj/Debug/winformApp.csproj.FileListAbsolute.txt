@@ -1,0 +1,9 @@
+C:\Users\marius.trooyen\Documents\GitHub\private\winformApp\winformApp\bin\Debug\winformApp.exe.config
+C:\Users\marius.trooyen\Documents\GitHub\private\winformApp\winformApp\bin\Debug\winformApp.exe
+C:\Users\marius.trooyen\Documents\GitHub\private\winformApp\winformApp\bin\Debug\winformApp.pdb
+C:\Users\marius.trooyen\Documents\GitHub\private\winformApp\winformApp\obj\Debug\winformApp.csprojResolveAssemblyReference.cache
+C:\Users\marius.trooyen\Documents\GitHub\private\winformApp\winformApp\obj\Debug\winformApp.Form1.resources
+C:\Users\marius.trooyen\Documents\GitHub\private\winformApp\winformApp\obj\Debug\winformApp.Properties.Resources.resources
+C:\Users\marius.trooyen\Documents\GitHub\private\winformApp\winformApp\obj\Debug\winformApp.csproj.GenerateResource.Cache
+C:\Users\marius.trooyen\Documents\GitHub\private\winformApp\winformApp\obj\Debug\winformApp.exe
+C:\Users\marius.trooyen\Documents\GitHub\private\winformApp\winformApp\obj\Debug\winformApp.pdb
